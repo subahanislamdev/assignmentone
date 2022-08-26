@@ -1,0 +1,158 @@
+body{
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+background-color: white;
+}
+.top-banner-text{
+    text-align: center;
+}
+.help-title{
+    color: rgb(56, 51, 51);
+    font-size: 32px;
+}
+.help-butto{
+text-decoration: none;
+background-image: linear-gradient(rgb(221, 26, 101),#FF5959);
+color: whitesmoke;
+font-size: 12px;
+    font-weight: 700;
+    padding: 12px 23px;
+    border-radius: 10px;
+}
+.help-pera{
+  
+}
+.donate-section{
+    text-align: center;
+    margin-top: 100px;
+}
+.parent-box{
+    display: flex;
+   justify-content: center;
+   margin-top: 28px;
+   margin-bottom: 26px;
+}
+.clild-box{
+    background-color: bisque;
+    padding: 20px 19px;
+    color: rgba(223, 154, 154, 0.815);
+    border-radius: 6px;
+    margin: 0 10px 0 10px;
+}
+.line{
+    height: 1px;
+    width: 765px;
+    color: aliceblue;
+    margin-bottom: 26px;
+}
+.our-plan{
+  margin: 100px 0 100px 0;
+ 
+}
+.plan-team{
+    display: flex;
+    justify-content: center;
+}
+.food{
+    background-color: aliceblue;
+    height: 270px;
+    width: 360px;
+    text-align: revert;
+    border-radius: 10px;
+    margin: 0 6px 0 5px;
+    padding: 26px 0 0 14px;
+}
+.shelter{
+    background-color: rgba(255, 89, 89, 0.1);
+    height: 270px;
+    width: 360px;
+    text-align: revert;
+    border-radius: 10px;
+    margin: 0 6px 0 5px;
+    padding: 26px 0 0 14px;
+}
+.education{
+    background-color: bisque;
+    height: 270px;
+    width: 360px;
+    text-align: revert;
+    border-radius: 10px;
+    margin: 0 6px 0 5px;
+    padding: 26px 0 0 14px;
+}
+.help-center{
+display: flex;
+margin: 100px 0 100px 0;
+}
+.help-text{
+width: 50%;
+margin-left: 93px;
+text-align: justify;
+}
+.help-img img{
+    width: 42%;
+    border-radius: 5px;
+    margin-left: 322px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    color: whitesmoke;
+    padding: 10PX 12PX;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.servive-img img{
+    width: 48%;
+    border-radius: 5px;
+    margin-left: 96px;
+}
+.servive-text{
+    text-align: justify;
+    margin-right: 252px;
+    width: 50%;
+}
+.form-section{
+text-align: center;
+margin: 100px 0 100px 0;
+}
+
+.input-design{
+    margin-top: 93px;
+    background-color: beige;
+    margin-top: 93px;
+    background-color: beige;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 17px;
+}
+.input-form{
+    margin: 35px 0 15px 0;
+    width: 809px;
+    height: 200px;
+    background-color: bisque;
+    margin-left: 251px;
+}
+.button-design{
+    height: 32px;
+    width: 62px;
+    border-radius: 4px;
+    color: tomato;
+    border: none;
+}
+.last{
+    background-color: black;
+    text-align: center;
+    width: 1440px;
+}
+.last h1 i{
+color: #FF5959;
+
+}
+.last p{
+color: white;}
+.text{
+    padding: 10px 0 5px 0;
+}
